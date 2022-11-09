@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Jakub-Kintama/TBD_6.2/issues"
   },
-  "homepage": "https://github.com/Jakub-Kintama/TBD_6.2#readme"
+  "homepage": "https://github.com/Jakub-Kintama/TBD_6.2#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^19.0.1",
+    "request": "^2.88.2"
+  }
 }
